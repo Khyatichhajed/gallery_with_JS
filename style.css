@@ -76,7 +76,7 @@ body{
   }
   @media only screen and (max-width: 600px) {
     .panel p {
-      font-size: 4em;
+      font-size: 1em;
     }
   }
   
