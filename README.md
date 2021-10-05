@@ -1,1 +1,1 @@
-day5 of wesbos' 30day JS course
+Link - https://khyatichhajed.github.io/gallery_with_JS/
